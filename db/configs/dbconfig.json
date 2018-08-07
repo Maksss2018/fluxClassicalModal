@@ -1,0 +1,9 @@
+{
+    "apiPrefix": "https://react-express-max1236.c9users.io:8081",
+    "serverPort": "8081",
+    "db":{
+        "name": "test",
+        "host": "max1236-react-express-6222160",
+        "port": 27017
+    }
+}

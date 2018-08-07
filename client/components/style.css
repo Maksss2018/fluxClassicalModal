@@ -1,0 +1,8 @@
+.text-color-red {
+    color: red!important;
+    background-color: #55da10!important;
+    border-radius: 45%;
+}
+.tooltip-inner{
+    padding: 0px!important;
+}
